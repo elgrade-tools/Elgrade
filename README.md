@@ -16,4 +16,4 @@ git clone https://github.com/elgrade-tools/Elgrade
 
 cd Elgrade
 
-python elgrade.py
+python elgradee.py
