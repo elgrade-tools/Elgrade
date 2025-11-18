@@ -14,6 +14,6 @@ npm install express ejs
 
 git clone https://github.com/elgrade-tools/Elgrade
 
-cd elgrade
+cd Elgrade
 
 python elgrade.py
