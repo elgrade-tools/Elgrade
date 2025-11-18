@@ -4,6 +4,10 @@ How to Install
 
 for Android
 
+pkg update && pkg upgrade -y
+
+pkg install wget -y
+
 pkg install git -y
 
 pkg install python -y
