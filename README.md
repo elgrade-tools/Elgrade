@@ -19,7 +19,9 @@ cd Elgrade
 python elgradee.py
 
 ------kalau tidak bisa-------
+
 python2 elgradee.py
 
 ------kalau tidak bisa-------
+
 python3 elgradee.py
