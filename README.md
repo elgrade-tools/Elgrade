@@ -6,15 +6,13 @@ for Android
 
 pkg update && pkg upgrade -y
 
-pkg install wget -y
+pkg install python git wget -y
 
-pkg install git -y
+pip install requests
 
 pkg install python -y
 
 pip install requests
-
-npm install express ejs
 
 git clone https://github.com/elgrade-tools/Elgrade
 
